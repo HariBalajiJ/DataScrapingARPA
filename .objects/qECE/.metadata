@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge MoE, National Institute Ranking Framework (NIRF)",
+  "Type": "App",
+  "Id": "qECEaXkmy0W5AFLn9de6rg",
+  "Reference": "2tPOIXtxBk6yQBcBaVt9Yw/qECEaXkmy0W5AFLn9de6rg",
+  "Created": "2025-08-26T03:26:58.2012338Z",
+  "Updated": "2025-08-26T03:26:58.2012338Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
