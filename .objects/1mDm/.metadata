@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge RPA & Automation Case Studies  UiPath",
+  "Type": "App",
+  "Id": "1mDmcVBNBkup-puAHsGpmw",
+  "Reference": "2tPOIXtxBk6yQBcBaVt9Yw/1mDmcVBNBkup-puAHsGpmw",
+  "Created": "2025-08-26T02:49:05.0077654Z",
+  "Updated": "2025-08-26T02:49:05.0077654Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
